@@ -27,7 +27,13 @@ https://www.sitepoint.com/github-profile-readme/
   
   ---
 ### :man_technologist: About Me :
-  I am an IT Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
+  I am a IT Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
+
+  ---
+### 🔭 I’m currently working on 
+
+  * [my k3s stack](https://github.com/fabricesemti80/home-cluster-gitops)
+  * various work projects, mostly around [dsc](https://docs.microsoft.com/en-us/powershell/dsc/getting-started/winGettingStarted?view=dsc-1.1); [terraform](https://www.terraform.io/) or other, primarily Windows-projects
   
   ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,7 +56,7 @@ https://www.sitepoint.com/github-profile-readme/
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricesemti80&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
-### :writing_hand: Blog Posts :
+### :writing_hand: My website
   <!-- BLOG-POST-LIST:START -->
   [fabricesemti.com](https://fabricesemti.com/)
 <!-- BLOG-POST-LIST:END -->
