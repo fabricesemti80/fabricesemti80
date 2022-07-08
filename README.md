@@ -1,10 +1,11 @@
 <!--
 https://www.sitepoint.com/github-profile-readme/
 -->
-<div id="whole-thing" align="center">  
-  <div id="header">  
-    
+<div id="whole-thing" align="center"> 
+  
+  <div id="header">      
   </div>
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/fabricesemti/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,17 +17,20 @@ https://www.sitepoint.com/github-profile-readme/
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  
   <img src="https://komarev.com/ghpvc/?username=fabricesemti80&style=flat-square&color=blue" alt=""/>
-   <h1>
-  hey there!  
-</h1>
+  
+  <h1>
+    hey there!  
+  </h1>
+  
   <div >
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150" />
+  </div>
   
   ---
 ### :man_technologist: About Me :
-  I am a IT Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
+  I am a IT Devops Engineer based in the UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   ---
 ### 🔭 I’m currently working on 
