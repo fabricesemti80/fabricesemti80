@@ -35,8 +35,8 @@ https://www.sitepoint.com/github-profile-readme/
   ---
 ### 🔭 I’m currently working on 
 
-  * [my k3s stack](https://github.com/fabricesemti80/home-gitops-cluster) 
-  * various work projects, mostly around [dsc](https://docs.microsoft.com/en-us/powershell/dsc/getting-started/winGettingStarted?view=dsc-1.1); [terraform](https://www.terraform.io/) or other, primarily Windows-projects
+  * [my ansible-pull repo](https://github.com/fabricesemti80/home.ansible.linux-config-with-ansible-pull/tree/fabrice)
+  * and number of projects around `Ansible`, `Prometheus`, and other automation/monitoring tools (at work)
   
   ---
 ### :hammer_and_wrench: Languages and Tools :
