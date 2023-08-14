@@ -21,7 +21,7 @@ https://www.sitepoint.com/github-profile-readme/
   <img src="https://komarev.com/ghpvc/?username=fabricesemti80&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    An idiot admires complexity, while a genius appreciates simplicity" - Terry A. Davis!  
+    "An idiot admires complexity, while a genius appreciates simplicity" - Terry A. Davis!  
   </h1>
   
   <div >
