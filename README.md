@@ -37,7 +37,8 @@ https://www.sitepoint.com/github-profile-readme/
 
   * [my ansible-pull repo](https://github.com/fabricesemti80/home.ansible.linux-config-with-ansible-pull/tree/fabrice)
   * and number of projects around `Ansible`, `Prometheus`, and other automation/monitoring tools (at work)
-  
+  * with some cloud (`AWS` primarily) and infrastructure (`VMWare`) / Windows-type of works (ie. `PowerShell scripting`)
+
   ---
 ### :hammer_and_wrench: Languages and Tools :
   <div align="center">
