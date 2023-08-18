@@ -7,11 +7,16 @@ https://www.sitepoint.com/github-profile-readme/
 ## About Me :man_technologist:
 
 I am a passionate Devops Engineer, based in the UK. 
-My primary focus is server deployment / automation, virtualisation, and Windows-platforms. I am also well-versed in Linux systems, configuration management, cloud engineering, infrastructure networking, and have some familiarity with web development and coding (Python).
+My primary focus is server deployment / automation, virtualisation, and Windows-platforms. 
+I am also well-versed in Linux systems, configuration management, cloud engineering, infrastructure networking, and have some familiarity with web development and coding (Python).
 
 ## My main languages and Tools :hammer_and_wrench:
 
  <div align="center">
+    <img src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="PowerShell" alt="PoerShell" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original.svg" title="Packer" alt="Packer" width="40" height="40"/>&nbsp;   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;   
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;     
@@ -19,6 +24,7 @@ My primary focus is server deployment / automation, virtualisation, and Windows-
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/k3s/k3s-original.svg" title="K3s" alt="K3S" width="40" height="40"/>&nbsp; 
+
 </div>
 
 ## My Stats :fire:
