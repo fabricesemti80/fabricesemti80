@@ -6,7 +6,7 @@ https://www.sitepoint.com/github-profile-readme/
 
 ## About Me :man_technologist:
 
-I am a passionate Devops Engineer, based in the UK. 
+I am a passionate Systems Engineer, based in the UK. 
 My primary focus is server deployment / automation, virtualisation, and Windows-platforms. 
 I am also well-versed in Linux systems, configuration management, cloud engineering, infrastructure networking, and have some familiarity with web development and coding (Python).
 
