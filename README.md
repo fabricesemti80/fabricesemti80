@@ -6,9 +6,7 @@ https://www.sitepoint.com/github-profile-readme/
 
 ## About Me :man_technologist:
 
-I am a passionate System Engineer, based in the UK. 
-My primary focus is server deployment / automation, virtualisation, and Windows-platforms. 
-I am also well-versed in Linux systems, configuration management, cloud engineering, infrastructure networking, and have some familiarity with web development and coding (Python).
+Infrastructure/Platform Engineer and DevOps Enthusiast | PowerShell, Terraform, Ansible, Python | Building Scalable Systems & Automating the Future | Inspired by The Unicorn & Phoenix Projects
 
 ## My main languages and Tools :hammer_and_wrench:
 
@@ -35,7 +33,7 @@ I am also well-versed in Linux systems, configuration management, cloud engineer
 
 ## My website :writing_hand:
 
-[Visit My Website](https://fabricesemti.com/)
+[Visit My Website](https://blog.fabricesemti.com/)
 
 </div>
 
@@ -52,7 +50,6 @@ I am also well-versed in Linux systems, configuration management, cloud engineer
 
 ---
 
-<h4>"An idiot admires complexity, while a genius appreciates simplicity" - Terry A. Davis!</h4>
 
 <!--
 **fabricesemti80/fabricesemti80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
