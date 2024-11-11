@@ -1,5 +1,13 @@
 <div align="center">
 
+<!-- NOTES / Links
+
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/anuraghazra/github-readme-stat[](url)
+https://github.com/fabricesemti80/github-readme-stats
+
+-->
+
 # Fabrice Semti
 ## Infrastructure & Platform Engineering Professional
 
@@ -12,16 +20,28 @@ A seasoned Infrastructure/Platform Engineer specializing in cloud-native solutio
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+    <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/> -->
 </div>
 
 ### Core Competencies
-- Infrastructure as Code (Terraform, Ansible)
-- Cloud Platform Engineering
-- CI/CD Pipeline Development
-- System Architecture & Design
-- DevOps Practices & Culture
-- Monitoring & Observability
+<div align="center">
+<table>
+  <tr>
+    <td>
+      ▪ Infrastructure as Code (Terraform, Ansible)<br>
+      ▪ Cloud Platform Engineering<br>
+      ▪ Scripting/Automation<br>        
+      ▪ System Architecture & Design
+    </td>
+    <td>
+      ▪ CI/CD Pipeline Development<br>
+      ▪ DevOps Practices & Culture<br>
+      ▪ Monitoring & Observability
+    </td>
+  </tr>
+</table>
+</div>
+
 
 ## Performance Metrics
 
