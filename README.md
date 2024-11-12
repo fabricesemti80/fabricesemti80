@@ -42,7 +42,8 @@ A seasoned Infrastructure/Platform Engineer specializing in cloud-native solutio
     <td>
       ▪ CI/CD Pipeline Development<br>
       ▪ DevOps Practices & Culture<br>
-      ▪ Monitoring & Observability
+      ▪ Monitoring & Observability<br>
+      ▪ Docker     
     </td>
   </tr>
 </table>
