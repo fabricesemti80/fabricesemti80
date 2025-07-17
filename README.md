@@ -58,7 +58,7 @@ A seasoned Infrastructure/Platform Engineer specializing in cloud-native solutio
 [![GitHub Streak](https://github-readme-streak-stats-snowy-delta.vercel.app?user=fabricesemti80)](https://git.io/streak-stats)[](url)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80&theme=transparent&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricesemti80&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
