@@ -29,6 +29,14 @@ My homelab is a place to explore platform engineering in practice, from configur
 **Platform and delivery:** Kubernetes, Talos, Argo CD, Docker, GitHub Actions, Jenkins  
 **Operations:** Prometheus, Grafana, Linux, Windows Server
 
+## Performance metrics
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80&theme=transparent&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricesemti80&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=fabricesemti80&style=flat-square&color=blue)
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/fabricesemti/) · [Blog](https://blog.fabricesemti.com/) · [YouTube](https://www.youtube.com/channel/UCgAdlwicjnjAXItHOSJMtpA)
