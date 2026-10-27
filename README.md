@@ -42,9 +42,10 @@ I'm particularly interested in the point where infrastructure and software meet:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80&theme=tokyonight&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=fabricesemti80&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=fabricesemti80&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=fabricesemti80&langs_count=4&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended"><img height="195" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=fabricesemti80&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight"></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=fabricesemti80&amp;langs_count=4&amp;theme=tokyonight"><img height="195" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=fabricesemti80&amp;langs_count=4&amp;theme=tokyonight"></a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fabricesemti80&style=flat-square&color=blue)
 
