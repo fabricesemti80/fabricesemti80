@@ -44,7 +44,7 @@ I'm particularly interested in the point where infrastructure and software meet:
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=fabricesemti80&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=fabricesemti80&layout=compact&theme=github_dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=fabricesemti80&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=fabricesemti80&langs_count=4&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fabricesemti80&style=flat-square&color=blue)
 
