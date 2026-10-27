@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Fabrice
 
 ### Infrastructure & Platform Engineer | Automation and Integration
@@ -39,3 +41,5 @@ My homelab is a place to explore platform engineering in practice, from configur
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/fabricesemti/) · [Blog](https://blog.fabricesemti.com/) · [YouTube](https://www.youtube.com/channel/UCgAdlwicjnjAXItHOSJMtpA)
+
+</div>
