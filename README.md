@@ -20,7 +20,6 @@ My homelab is a place to explore platform engineering in practice, from configur
 - [**Home DC — Kubernetes**](https://github.com/fabricesemti80/home-dc-kubernetes) — Talos Kubernetes clusters, Argo CD GitOps, networking and infrastructure automation, with documented bootstrap and recovery workflows.
 - [**Home DC — Proxmox**](https://github.com/fabricesemti80/home-dc-proxmox) — Ansible-based configuration for a standalone Proxmox host, with validation, check-mode planning and staged GPU preparation.
 - [**Nix Home Machines**](https://github.com/fabricesemti80/infra-nix-home-machines) — reproducible macOS and NixOS host and user configurations using Nix flakes and Home Manager.
-- [**Syncdoc Drift Demo**](https://github.com/fabricesemti80/syncdoc-drift-demo) — a small example repository for demonstrating configuration drift across Terraform, Docker and Ansible.
 
 ## Tools and technologies
 
