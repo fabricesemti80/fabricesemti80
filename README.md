@@ -40,7 +40,7 @@ I'm particularly interested in the point where infrastructure and software meet:
 
 ## Performance metrics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80&theme=transparent&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80&theme=tokyonight&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=fabricesemti80&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
