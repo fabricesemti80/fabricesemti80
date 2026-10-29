@@ -23,8 +23,9 @@ I'm particularly interested in the point where infrastructure and software meet:
       <h2>Selected projects</h2>
       <p>My homelab is a place to explore platform engineering in practice, from configuring hosts to deploying and operating applications:</p>
       <ul>
-        <li><a href="https://github.com/fabricesemti80/home-dc-kubernetes"><strong>Home DC — Kubernetes</strong></a> — Talos Kubernetes clusters, Argo CD GitOps, networking and infrastructure automation, with documented bootstrap and recovery workflows.</li>
-        <li><a href="https://github.com/fabricesemti80/home-dc-proxmox"><strong>Home DC — Proxmox</strong></a> — Ansible-based configuration for a standalone Proxmox host, with validation, check-mode planning and staged GPU preparation.</li>
+        <li><a href="https://github.com/fabricesemti80/home-dc-proxmox"><strong>Home DC — Proxmox</strong></a> — Ansible configuration for the standalone PVE host, including storage, NFS, GPU passthrough and API access.</li>
+        <li><a href="https://github.com/fabricesemti80/home-dc-terraform"><strong>Home DC — Terraform</strong></a> — OpenTofu-managed Proxmox VMs/LXCs and Cloudflare tunnels/Access, with separate roots and reviewable task workflows.</li>
+        <li><a href="https://github.com/fabricesemti80/home-dc-kubernetes"><strong>Home DC — Kubernetes</strong></a> — Talos configuration, cluster bootstrap, Kubernetes manifests and Argo CD GitOps for the app and physical infra clusters.</li>
         <li><a href="https://github.com/fabricesemti80/infra-nix-home-machines"><strong>Nix Home Machines</strong></a> — reproducible macOS and NixOS host and user configurations using Nix flakes and Home Manager.</li>
       </ul>
     </td>
