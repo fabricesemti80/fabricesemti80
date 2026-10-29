@@ -23,6 +23,7 @@ I'm particularly interested in the point where infrastructure and software meet:
       <h2>Selected projects</h2>
       <p>My homelab is a place to explore platform engineering in practice, from configuring hosts to deploying and operating applications:</p>
       <ul>
+        <li><a href="https://github.com/fabricesemti80/home-dc"><strong>Home DC</strong></a> — central architecture and ownership map for the standalone PVE host, OpenTofu roots, and Kubernetes GitOps clusters.</li>
         <li><a href="https://github.com/fabricesemti80/home-dc-proxmox"><strong>Home DC — Proxmox</strong></a> — Ansible configuration for the standalone PVE host, including storage, NFS, GPU passthrough and API access.</li>
         <li><a href="https://github.com/fabricesemti80/home-dc-terraform"><strong>Home DC — Terraform</strong></a> — OpenTofu-managed Proxmox VMs/LXCs and Cloudflare tunnels/Access, with separate roots and reviewable task workflows.</li>
         <li><a href="https://github.com/fabricesemti80/home-dc-kubernetes"><strong>Home DC — Kubernetes</strong></a> — Talos configuration, cluster bootstrap, Kubernetes manifests and Argo CD GitOps for the app and physical infra clusters.</li>
