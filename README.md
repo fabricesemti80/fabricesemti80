@@ -8,10 +8,13 @@ I enjoy connecting systems, solving integration problems and building tools that
 
 I'm particularly interested in the point where infrastructure and software meet: taking an operational problem, building a solution end to end, and making it reliable and reusable for the people who use it.
 
+I also run a fairly complex homelab, involving multiple kubernetes clusters running on Talos Linux VM-s and bare metal servers. 
+The deployment is fully automated - building, apart from the Proxmox / Talos OS install and static IP setup is entirely code-driven - heavily using Ansible for *configuration*, Terraform for *provisioning* - of Unifi networking, Proxmox VM-s and Cloudflare, TailScale and Doppler resources - and GitOps for *Day 2 operation* - ArgoCD.
+
 <table>
   <tr>
     <td align="left" valign="top" width="50%">
-      <h2>What I work on</h2>
+      <h2>🛠️ What I work on</h2>
       <ul>
         <li><strong>Infrastructure as code:</strong> provisioning and configuration with Terraform, OpenTofu and Ansible across cloud and virtualised environments.</li>
         <li><strong>Automation and integration:</strong> connecting APIs and building tools and workflows with PowerShell and Python.</li>
@@ -20,7 +23,7 @@ I'm particularly interested in the point where infrastructure and software meet:
       </ul>
     </td>
     <td align="left" valign="top" width="50%">
-      <h2>Selected projects</h2>
+      <h2>🚀 Selected projects</h2>
       <p>My homelab is a place to explore platform engineering in practice, from configuring hosts to deploying and operating applications:</p>
       <ul>
         <li><a href="https://github.com/fabricesemti80/home-dc"><strong>Home DC</strong></a> — central architecture and ownership map for the standalone PVE host, OpenTofu roots, and Kubernetes GitOps clusters.</li>
@@ -33,14 +36,14 @@ I'm particularly interested in the point where infrastructure and software meet:
   </tr>
 </table>
 
-## Tools and technologies
+## :toolbox: Tools and technologies
 
 **Automation:** PowerShell, Python, Ansible  
 **Infrastructure:** Terraform, OpenTofu, Azure, AWS, VMware, Proxmox  
 **Platform and delivery:** Kubernetes, Talos, Argo CD, Docker, GitHub Actions, Jenkins  
 **Operations:** Prometheus, Grafana, Linux, Windows Server
 
-## Performance metrics
+## :bar_chart: Performance metrics
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fabricesemti80&theme=tokyonight&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -51,7 +54,7 @@ I'm particularly interested in the point where infrastructure and software meet:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fabricesemti80&style=flat-square&color=blue)
 
-## Connect
+## :handshake: Connect
 
 [LinkedIn](https://www.linkedin.com/in/fabricesemti/) · [Blog](https://blog.fabricesemti.com/) · [YouTube](https://www.youtube.com/channel/UCgAdlwicjnjAXItHOSJMtpA)
 
