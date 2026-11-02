@@ -13,7 +13,7 @@ The deployment is fully automated - building, apart from the Proxmox / Talos OS 
 
 <table>
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="33%">
       <h2>🛠️ What I work on</h2>
       <ul>
         <li><strong>Infrastructure as code:</strong> provisioning and configuration with Terraform, OpenTofu and Ansible across cloud and virtualised environments.</li>
@@ -22,7 +22,7 @@ The deployment is fully automated - building, apart from the Proxmox / Talos OS 
         <li><strong>Operations and observability:</strong> monitoring, troubleshooting and designing for maintainability and recovery.</li>
       </ul>
     </td>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="33%">
       <h2>🚀 Selected projects</h2>
       <p>My homelab is a place to explore platform engineering in practice, from configuring hosts to deploying and operating applications:</p>
       <ul>
@@ -33,6 +33,14 @@ The deployment is fully automated - building, apart from the Proxmox / Talos OS 
         <li><a href="https://github.com/fabricesemti80/infra-nix-home-machines"><strong>Nix Home Machines</strong></a> — reproducible macOS and NixOS host and user configurations using Nix flakes and Home Manager.</li>
       </ul>
     </td>
+    <td align="left" valign="top" width="33%">
+      <h2>🛠️ What I am learning currently</h2>
+      <ul>
+        <li><strong>Python development</li>
+        <li><strong>AI agentic engineering.</li>
+        <li><strong>IT Management</li>
+      </ul>
+    </td>    
   </tr>
 </table>
 
