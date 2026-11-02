@@ -34,7 +34,7 @@ The deployment is fully automated - building, apart from the Proxmox / Talos OS 
       </ul>
     </td>
     <td align="left" valign="top" width="33%">
-      <h2>🛠️ What I am learning currently</h2>
+      <h2>📚 What I am learning currently</h2>
       <ul>
         <li><strong>Python development</li>
         <li><strong>AI agentic engineering.</li>
